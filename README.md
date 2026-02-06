@@ -107,3 +107,9 @@ YouTube Channels:
 - **Memory Usage:** 12.5 MB
 - **Link:** https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/
 - **Note:** This problem was helped by this YouTube video: https://youtu.be/7QE8lHZQsYE?si=mDfJfdvIps__yqv5
+
+### 3634. Minimum Removal to Balance Array - Medium
+- **Time Complexity:** O(n log n)
+- **Runtime:** 127 ms
+- **Memory Usage:** 34.8 MB
+- **Link:** https://leetcode.com/problems/minimum-removals-to-balance-array/
